@@ -28,7 +28,7 @@ person: # Dictionary
   city: Hyderabad
   hobbies: # List  
     - cycling
-    - cookines
+    - cooking
   hobbies: [cycling, cooking]   # List with a differnt notation  
 ```  
 
